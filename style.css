@@ -1,0 +1,16 @@
+*{
+    padding: 0.2%;
+    margin: 0.2%;
+}
+body{height: 110vh;}
+header{height: 18vh;}
+main{height: 77vh;}
+footer{height:15vh;}
+
+.nav-link {color: black;font-weight: bold;}.nav-link:hover{background-color: azure;}
+.nav-item {color: black;font-weight: bold;}
+.navbar-nav {--bs-nav-link-padding-x:null;--bs-nav-link-padding-y:null;--bs-nav-link-font-weight:null;}
+.navbar {--bs-navbar-padding-x:null;--bs-navbar-padding-y:null;}
+div ul li a{color: black;text-decoration: none;}
+div ul li{text-decoration: none;list-style: none;}
+.decoracion{display: inline;padding: 15px;}.decoracion:hover{background-color: azure;}
